@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeCodify", "DeCodify.csproj", "{80114414-99BE-45DC-9D20-64AF663FDC5A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeCodify", "DeCodify.csproj", "{80114414-99BE-45DC-9D20-64AF663FDC5A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecompressionTests", "..\DecompressionTests\DecompressionTests.csproj", "{95FA7665-2ABE-433D-957A-985473D8AADE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeCodifyTests", "..\DecompressionTests\DeCodifyTests.csproj", "{95FA7665-2ABE-433D-957A-985473D8AADE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

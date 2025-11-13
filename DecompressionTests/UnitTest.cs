@@ -1,6 +1,6 @@
 using DeCodify;
 
-namespace DecompressionTests
+namespace DeCodifyTests
 {
     public class UnitTest
     {
