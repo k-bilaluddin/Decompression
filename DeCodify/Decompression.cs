@@ -23,9 +23,6 @@ namespace DeCodify
                 }
                 else if (char.IsDigit(s[i]))
                 {
-                    if (currentLetters.Length == 0)
-                        return string.Empty;
-
                     int start = i;
                     while (i < s.Length && char.IsDigit(s[i]))
                     {
